@@ -1,8 +1,10 @@
+<div>
+  Este repositório é uma modificação de um "projeto" da RPTecDev, visando implementar alguns recursos que senti falta e achei que seria melhor se fossem implementados. 
+  Abaixo estará a descrição original do projeto.
+</div>
 <div align="center">
-  
+
 # JSGame-Piano-Music
-
-
 
 <div align="center">
 
@@ -20,4 +22,5 @@ Mais um jogo desenvolvido como desafio na DIO. Sendo que posteriormente a idéia
 Desde já agradeço seu interesse. Então sem mais delongas aproveite e crie suas melodias ===>https://RPTecIADev.github.io/JSGame-piano-music/<===
 
 </div>
+
 
